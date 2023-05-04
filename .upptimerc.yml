@@ -14,7 +14,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fleming.de
   # baseUrl: /fleming_status
-  logoUrl: https://fleming.de/wp-content/uploads/2021/10/Fleming-Logo-rgb-pos.svg
+  logoUrl: https://fleming.de/wp-content/uploads/2023/05/Fleming-Logo-White.svg
   name: Status Page
   introTitle: "Fleming: Mehr als eine Bank für Heilberufe."
   introMessage:

@@ -12,8 +12,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /fleming_status
+  cname: status.fleming.de
+  # baseUrl: /fleming_status
   logoUrl: https://fleming.de/wp-content/uploads/2021/10/Fleming-Logo-rgb-pos.svg
   name: Status Page
   introTitle: "Fleming: Mehr als eine Bank für Heilberufe."

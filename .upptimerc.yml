@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://fleming.de/wp-content/uploads/2021/10/Fleming-Logo-rgb-pos.svg
   name: Status Page
   introTitle: "Fleming: Mehr als eine Bank für Heilberufe."
-  introMessage: Status Page
+  introMessage:
   navbar:
     - title: Status
       href: /

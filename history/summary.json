@@ -6,15 +6,15 @@
     "slug": "fleming-de",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.81%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 2057,
-    "timeDay": 1508,
-    "timeWeek": 1792,
-    "timeMonth": 2057,
-    "timeYear": 2057,
+    "time": 2037,
+    "timeDay": 1194,
+    "timeWeek": 1752,
+    "timeMonth": 2037,
+    "timeYear": 2037,
     "dailyMinutesDown": {
       "2023-05-30": 17
     }

@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fleming.de.ico",
     "slug": "fleming-de",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 2007,
-    "timeDay": 2141,
-    "timeWeek": 1701,
-    "timeMonth": 2192,
-    "timeYear": 2007,
+    "uptimeYear": "99.97%",
+    "time": 1992,
+    "timeDay": 1250,
+    "timeWeek": 1709,
+    "timeMonth": 2165,
+    "timeYear": 1992,
     "dailyMinutesDown": {
       "2023-05-30": 17
     }
